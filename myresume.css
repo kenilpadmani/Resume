@@ -1,0 +1,14 @@
+.u-shadow{
+    text-shadow: 3px 3px 3px red;
+}
+.u-shadow:hover{
+    text-shadow: 3px 3px 3px orange;
+}
+strong{
+    background-color:skyblue;
+}
+strong:hover{
+    box-sizing:border-box;
+    transition-duration: 300ms;
+    padding:10px 0px;
+}
